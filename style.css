@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background: #000; /* 黑色背景 */
+  }
+  
+  canvas {
+    display: block;
+    margin: 0 auto;
+    background: #000; /* 黑色背景，取代原背景圖 */
+  }
